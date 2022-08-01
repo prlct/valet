@@ -1,0 +1,1174 @@
+{
+  "id": "ce36ce3f-c15a-456e-8003-e10f6d77a55c",
+  "project": "5985c9bf-e9da-4968-95c1-11965c276e02",
+  "iteration": "3ad37a97-2992-4292-b21a-ad8f0bed2a2e",
+  "created": "2022-07-25T17:38:19.574Z",
+  "predictions": [
+    {
+      "probability": 0.9990202,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.1391398,
+        "top": 0.110653095,
+        "width": 0.04236844,
+        "height": 0.11849151
+      }
+    },
+    {
+      "probability": 0.9989478,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.56483954,
+        "top": 0.53458655,
+        "width": 0.040802717,
+        "height": 0.1210776
+      }
+    },
+    {
+      "probability": 0.9988863,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.6257818,
+        "top": 0.5376256,
+        "width": 0.041158795,
+        "height": 0.117394626
+      }
+    },
+    {
+      "probability": 0.9988298,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.6824755,
+        "top": 0.5404747,
+        "width": 0.041374803,
+        "height": 0.12079388
+      }
+    },
+    {
+      "probability": 0.9986657,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.63674307,
+        "top": 0.38440442,
+        "width": 0.042005897,
+        "height": 0.12169111
+      }
+    },
+    {
+      "probability": 0.99853134,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.30236068,
+        "top": 0.12664798,
+        "width": 0.037895113,
+        "height": 0.11073208
+      }
+    },
+    {
+      "probability": 0.99850535,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.13992423,
+        "top": 0.56448275,
+        "width": 0.04506074,
+        "height": 0.12307882
+      }
+    },
+    {
+      "probability": 0.9984849,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.5462081,
+        "top": 0.85148203,
+        "width": 0.039623678,
+        "height": 0.12123579
+      }
+    },
+    {
+      "probability": 0.9984127,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.37915105,
+        "top": 0.5452151,
+        "width": 0.04069692,
+        "height": 0.124337256
+      }
+    },
+    {
+      "probability": 0.99839264,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.5016716,
+        "top": 0.53694266,
+        "width": 0.041500986,
+        "height": 0.12441611
+      }
+    },
+    {
+      "probability": 0.99834657,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.48275098,
+        "top": 0.8463913,
+        "width": 0.04104379,
+        "height": 0.12909186
+      }
+    },
+    {
+      "probability": 0.9983461,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.29361495,
+        "top": 0.845299,
+        "width": 0.04365921,
+        "height": 0.12796241
+      }
+    },
+    {
+      "probability": 0.99834216,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.60317755,
+        "top": 0.84265226,
+        "width": 0.041113794,
+        "height": 0.12894362
+      }
+    },
+    {
+      "probability": 0.9983242,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.7395397,
+        "top": 0.5387281,
+        "width": 0.047814786,
+        "height": 0.12610817
+      }
+    },
+    {
+      "probability": 0.99819946,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.8032757,
+        "top": 0.5318808,
+        "width": 0.043753028,
+        "height": 0.13253671
+      }
+    },
+    {
+      "probability": 0.9981926,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.31986138,
+        "top": 0.55759954,
+        "width": 0.03937456,
+        "height": 0.13001305
+      }
+    },
+    {
+      "probability": 0.99809784,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.41578045,
+        "top": 0.11579613,
+        "width": 0.03890854,
+        "height": 0.11242186
+      }
+    },
+    {
+      "probability": 0.9980221,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.22638598,
+        "top": 0.8588948,
+        "width": 0.04898268,
+        "height": 0.12702459
+      }
+    },
+    {
+      "probability": 0.99797136,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.25909495,
+        "top": 0.55507284,
+        "width": 0.041305155,
+        "height": 0.1195634
+      }
+    },
+    {
+      "probability": 0.99795073,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.36065087,
+        "top": 0.8438657,
+        "width": 0.037450373,
+        "height": 0.11577988
+      }
+    },
+    {
+      "probability": 0.9977709,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.3972492,
+        "top": 0.38566783,
+        "width": 0.03821546,
+        "height": 0.11960426
+      }
+    },
+    {
+      "probability": 0.99765164,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.69468415,
+        "top": 0.3862539,
+        "width": 0.039800107,
+        "height": 0.107281655
+      }
+    },
+    {
+      "probability": 0.9975841,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.7949005,
+        "top": 0.84897727,
+        "width": 0.042265773,
+        "height": 0.13949025
+      }
+    },
+    {
+      "probability": 0.99749774,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.21563889,
+        "top": 0.4095111,
+        "width": 0.040176436,
+        "height": 0.11663741
+      }
+    },
+    {
+      "probability": 0.9974859,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.7548803,
+        "top": 0.39175773,
+        "width": 0.041432977,
+        "height": 0.11331415
+      }
+    },
+    {
+      "probability": 0.9974649,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.44448626,
+        "top": 0.53318894,
+        "width": 0.03855133,
+        "height": 0.12924498
+      }
+    },
+    {
+      "probability": 0.9971329,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.83862174,
+        "top": 0.078476794,
+        "width": 0.08591843,
+        "height": 0.08642853
+      }
+    },
+    {
+      "probability": 0.9970618,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.72873807,
+        "top": 0.84417003,
+        "width": 0.046201885,
+        "height": 0.13818842
+      }
+    },
+    {
+      "probability": 0.9969409,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.36207274,
+        "top": 0.12747793,
+        "width": 0.037497908,
+        "height": 0.11348519
+      }
+    },
+    {
+      "probability": 0.99683243,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.85989094,
+        "top": 0.84447855,
+        "width": 0.04068029,
+        "height": 0.13998854
+      }
+    },
+    {
+      "probability": 0.9968034,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.19591527,
+        "top": 0.1282745,
+        "width": 0.03880158,
+        "height": 0.10413326
+      }
+    },
+    {
+      "probability": 0.99660516,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.5758722,
+        "top": 0.37977836,
+        "width": 0.038415015,
+        "height": 0.11196697
+      }
+    },
+    {
+      "probability": 0.996375,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.883976,
+        "top": 0.21350226,
+        "width": 0.08656919,
+        "height": 0.07451573
+      }
+    },
+    {
+      "probability": 0.99610645,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.46185085,
+        "top": 0.38326317,
+        "width": 0.03579417,
+        "height": 0.11495945
+      }
+    },
+    {
+      "probability": 0.9957775,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.6485588,
+        "top": 0.107539974,
+        "width": 0.036723852,
+        "height": 0.11654731
+      }
+    },
+    {
+      "probability": 0.99577135,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.41535333,
+        "top": 0.8378942,
+        "width": 0.041368574,
+        "height": 0.15077168
+      }
+    },
+    {
+      "probability": 0.9956786,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.19729684,
+        "top": 0.563921,
+        "width": 0.045181394,
+        "height": 0.11764872
+      }
+    },
+    {
+      "probability": 0.99503857,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.51451135,
+        "top": 0.3787211,
+        "width": 0.040595353,
+        "height": 0.113793254
+      }
+    },
+    {
+      "probability": 0.994576,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.47750998,
+        "top": 0.119832866,
+        "width": 0.033334672,
+        "height": 0.11303919
+      }
+    },
+    {
+      "probability": 0.99451596,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.59295523,
+        "top": 0.11699528,
+        "width": 0.036940396,
+        "height": 0.11079993
+      }
+    },
+    {
+      "probability": 0.99382657,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.86138606,
+        "top": 0.15428178,
+        "width": 0.07102996,
+        "height": 0.065518945
+      }
+    },
+    {
+      "probability": 0.99368405,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.53717846,
+        "top": 0.11758801,
+        "width": 0.03565401,
+        "height": 0.10532497
+      }
+    },
+    {
+      "probability": 0.99229056,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.80638385,
+        "top": 0.012480901,
+        "width": 0.09389335,
+        "height": 0.0984844
+      }
+    },
+    {
+      "probability": 0.99177843,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.926745,
+        "top": 0.8364892,
+        "width": 0.049470723,
+        "height": 0.13537294
+      }
+    },
+    {
+      "probability": 0.9913935,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.33999884,
+        "top": 0.3966838,
+        "width": 0.040368825,
+        "height": 0.117798865
+      }
+    },
+    {
+      "probability": 0.9909594,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.43652812,
+        "top": 0.003462027,
+        "width": 0.036915958,
+        "height": 0.07145149
+      }
+    },
+    {
+      "probability": 0.988419,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.1443064,
+        "top": 0.00050951453,
+        "width": 0.04198329,
+        "height": 0.07611491
+      }
+    },
+    {
+      "probability": 0.9877352,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.95077413,
+        "top": 0.3601088,
+        "width": 0.048101246,
+        "height": 0.07425815
+      }
+    },
+    {
+      "probability": 0.98683757,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.4961429,
+        "top": 0.0048735808,
+        "width": 0.037105232,
+        "height": 0.077031754
+      }
+    },
+    {
+      "probability": 0.9862454,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.15230232,
+        "top": 0.9386856,
+        "width": 0.05833991,
+        "height": 0.061314404
+      }
+    },
+    {
+      "probability": 0.9860184,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.5491877,
+        "top": 0.004404527,
+        "width": 0.037082016,
+        "height": 0.07454972
+      }
+    },
+    {
+      "probability": 0.9775353,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.96397305,
+        "top": 0.4337566,
+        "width": 0.036026955,
+        "height": 0.07355255
+      }
+    },
+    {
+      "probability": 0.96585786,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.32952178,
+        "top": 0.002842605,
+        "width": 0.03974721,
+        "height": 0.09059726
+      }
+    },
+    {
+      "probability": 0.9546687,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.93445134,
+        "top": 0.27426577,
+        "width": 0.0635851,
+        "height": 0.08876252
+      }
+    },
+    {
+      "probability": 0.8618334,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.60461944,
+        "top": 0.0056287786,
+        "width": 0.041925907,
+        "height": 0.07548114
+      }
+    },
+    {
+      "probability": 0.82584155,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.81482315,
+        "top": 0.0182029,
+        "width": 0.110132396,
+        "height": 0.14273454
+      }
+    },
+    {
+      "probability": 0.3384127,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.7948324,
+        "top": 0.0011147173,
+        "width": 0.07310867,
+        "height": 0.022843333
+      }
+    },
+    {
+      "probability": 0.24652456,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.98387414,
+        "top": 0.6178832,
+        "width": 0.016125858,
+        "height": 0.075119674
+      }
+    },
+    {
+      "probability": 0.21541752,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.7222605,
+        "top": 0.8380194,
+        "width": 0.06598264,
+        "height": 0.16198063
+      }
+    },
+    {
+      "probability": 0.17464209,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.9195333,
+        "top": 0.834003,
+        "width": 0.08046669,
+        "height": 0.14068043
+      }
+    },
+    {
+      "probability": 0.13324659,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.14625107,
+        "top": 0.9336165,
+        "width": 0.058211982,
+        "height": 0.06638348
+      }
+    },
+    {
+      "probability": 0.07105966,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.80072767,
+        "top": 0.9633395,
+        "width": 0.19927233,
+        "height": 0.036660492
+      }
+    },
+    {
+      "probability": 0.050553117,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.8935037,
+        "top": 0.5755816,
+        "width": 0.04789388,
+        "height": 0.11898053
+      }
+    },
+    {
+      "probability": 0.047415495,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.94945127,
+        "top": 0.9900477,
+        "width": 0.042433977,
+        "height": 0.009952307
+      }
+    },
+    {
+      "probability": 0.04197571,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.013891534,
+        "top": 0.9682929,
+        "width": 0.3232207,
+        "height": 0.031707108
+      }
+    },
+    {
+      "probability": 0.034470994,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.51596606,
+        "top": 0.9713476,
+        "width": 0.36174768,
+        "height": 0.02865243
+      }
+    },
+    {
+      "probability": 0.034345824,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.00043352015,
+        "top": 0.96644616,
+        "width": 0.02027546,
+        "height": 0.03355384
+      }
+    },
+    {
+      "probability": 0.02871709,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.6527571,
+        "top": 0.995395,
+        "width": 0.057365716,
+        "height": 0.0046049953
+      }
+    },
+    {
+      "probability": 0.013202596,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.34398055,
+        "top": 0.006063815,
+        "width": 0.034229994,
+        "height": 0.089003116
+      }
+    },
+    {
+      "probability": 0.012275514,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.73624367,
+        "top": 0.16585685,
+        "width": 0.046749473,
+        "height": 0.10605778
+      }
+    },
+    {
+      "probability": 0.011240091,
+      "tagId": "a3d8678b-52f3-43e6-b632-2da1a8f10c7c",
+      "tagName": "car",
+      "boundingBox": {
+        "left": 0.9120331,
+        "top": 0.7994886,
+        "width": 0.08796692,
+        "height": 0.2005114
+      }
+    },
+    {
+      "probability": 0.99053615,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.26145342,
+        "top": 0.0,
+        "width": 0.06240174,
+        "height": 0.11402121
+      }
+    },
+    {
+      "probability": 0.9877725,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.21428896,
+        "top": 0.004001267,
+        "width": 0.05642827,
+        "height": 0.10627408
+      }
+    },
+    {
+      "probability": 0.9828319,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.24190854,
+        "top": 0.12312488,
+        "width": 0.06074156,
+        "height": 0.12530077
+      }
+    },
+    {
+      "probability": 0.92598903,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.36897457,
+        "top": 0.0060904343,
+        "width": 0.06764099,
+        "height": 0.098826714
+      }
+    },
+    {
+      "probability": 0.8295184,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.6518109,
+        "top": 0.8352097,
+        "width": 0.06608409,
+        "height": 0.14836901
+      }
+    },
+    {
+      "probability": 0.8059635,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.8886841,
+        "top": 0.55973846,
+        "width": 0.062381566,
+        "height": 0.14630944
+      }
+    },
+    {
+      "probability": 0.7600365,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.080011874,
+        "top": 0.27150846,
+        "width": 0.056419358,
+        "height": 0.23593187
+      }
+    },
+    {
+      "probability": 0.50089055,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.91619354,
+        "top": 0.82132167,
+        "width": 0.083806455,
+        "height": 0.17679882
+      }
+    },
+    {
+      "probability": 0.41117203,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.7299786,
+        "top": 0.15848412,
+        "width": 0.056694925,
+        "height": 0.119867906
+      }
+    },
+    {
+      "probability": 0.2986292,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.71648616,
+        "top": 0.8371152,
+        "width": 0.07946932,
+        "height": 0.16288477
+      }
+    },
+    {
+      "probability": 0.28206417,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.0047981064,
+        "top": 0.03561647,
+        "width": 0.08697559,
+        "height": 0.453104
+      }
+    },
+    {
+      "probability": 0.27483416,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.013363957,
+        "top": 0.5245595,
+        "width": 0.08969437,
+        "height": 0.41130513
+      }
+    },
+    {
+      "probability": 0.23540814,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.0080955485,
+        "top": 0.003253544,
+        "width": 0.08767588,
+        "height": 0.28855604
+      }
+    },
+    {
+      "probability": 0.23234966,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.004316948,
+        "top": 0.28511053,
+        "width": 0.10777571,
+        "height": 0.71488947
+      }
+    },
+    {
+      "probability": 0.21827069,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.6501453,
+        "top": 0.9946644,
+        "width": 0.061778843,
+        "height": 0.005335629
+      }
+    },
+    {
+      "probability": 0.18136123,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.13452959,
+        "top": 0.2286335,
+        "width": 0.08253652,
+        "height": 0.32410362
+      }
+    },
+    {
+      "probability": 0.17374451,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.7860384,
+        "top": 0.96120363,
+        "width": 0.2139616,
+        "height": 0.038796365
+      }
+    },
+    {
+      "probability": 0.1372649,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.981988,
+        "top": 0.61481565,
+        "width": 0.018011987,
+        "height": 0.07979584
+      }
+    },
+    {
+      "probability": 0.13448878,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.94757324,
+        "top": 0.9896932,
+        "width": 0.045174837,
+        "height": 0.010306776
+      }
+    },
+    {
+      "probability": 0.121977165,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.49822807,
+        "top": 0.96887857,
+        "width": 0.3927046,
+        "height": 0.031121433
+      }
+    },
+    {
+      "probability": 0.103201255,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.78766364,
+        "top": 0.0,
+        "width": 0.08276975,
+        "height": 0.02463851
+      }
+    },
+    {
+      "probability": 0.08527908,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.0,
+        "top": 0.96672463,
+        "width": 0.34610537,
+        "height": 0.033275366
+      }
+    },
+    {
+      "probability": 0.0844637,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.96469027,
+        "top": 0.8430534,
+        "width": 0.035309732,
+        "height": 0.12416172
+      }
+    },
+    {
+      "probability": 0.061836466,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.0,
+        "top": 0.9669774,
+        "width": 0.021507258,
+        "height": 0.033022583
+      }
+    },
+    {
+      "probability": 0.055302933,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.60128886,
+        "top": 0.0,
+        "width": 0.04541552,
+        "height": 0.09157751
+      }
+    },
+    {
+      "probability": 0.05521066,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.14749756,
+        "top": 0.93467826,
+        "width": 0.07097782,
+        "height": 0.06532174
+      }
+    },
+    {
+      "probability": 0.047481865,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.23573385,
+        "top": 0.96386415,
+        "width": 0.4489361,
+        "height": 0.036135852
+      }
+    },
+    {
+      "probability": 0.025962923,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.08442056,
+        "top": 0.2571572,
+        "width": 0.074472055,
+        "height": 0.32794553
+      }
+    },
+    {
+      "probability": 0.02202894,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.53284115,
+        "top": 0.11596057,
+        "width": 0.04725921,
+        "height": 0.11368233
+      }
+    },
+    {
+      "probability": 0.021852173,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.5429842,
+        "top": 0.0,
+        "width": 0.047353983,
+        "height": 0.08429443
+      }
+    },
+    {
+      "probability": 0.02115685,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.3234408,
+        "top": 0.0,
+        "width": 0.05059257,
+        "height": 0.101599105
+      }
+    },
+    {
+      "probability": 0.014758349,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.13613604,
+        "top": 0.0,
+        "width": 0.054419547,
+        "height": 0.083295375
+      }
+    },
+    {
+      "probability": 0.012705127,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.90598226,
+        "top": 0.798242,
+        "width": 0.094017744,
+        "height": 0.20175803
+      }
+    },
+    {
+      "probability": 0.012408217,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.47021723,
+        "top": 0.11530695,
+        "width": 0.047736883,
+        "height": 0.12608182
+      }
+    },
+    {
+      "probability": 0.010591794,
+      "tagId": "2307fab7-e5ce-4cd8-afb1-2818c5ee9528",
+      "tagName": "lot",
+      "boundingBox": {
+        "left": 0.85106397,
+        "top": 0.8492931,
+        "width": 0.05851382,
+        "height": 0.14067566
+      }
+    }
+  ]
+}
